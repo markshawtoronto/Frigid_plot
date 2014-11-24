@@ -40,7 +40,7 @@ $(document).ready(function() {
 	function draw_temperature_graph(city)
 	{
 		$.ajax({
-			url: 'http://api.openweathermap.org/data/2.5/forecast/city?q='+city+',ca&units=metric&mo',
+			url: 'https://api.openweathermap.org/data/2.5/forecast/city?q='+city+',ca&units=metric&mo',
 			dataType: 'jsonp',
 			success: function (weather_data) {
 				// Flot expects an Array of data series, one for each line
