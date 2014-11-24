@@ -1,0 +1,79 @@
+.main_container{
+	max-width: none;
+	width: 98%;
+}
+
+.table td, .table th{
+	vertical-align: top !important;
+}
+.weather_graph {
+    height: 300px;
+}
+.reporting_graph{
+    height: 300px;
+}
+.axisLabel {
+    position: absolute;
+    text-align: center;
+    font-size: 12px;
+    font-family: MAVEN-PRO, sans-serif;
+    color: #555352;
+}
+.xaxisLabel {
+    bottom: -15px;
+    left: 0;
+    right: 0;
+}
+.yaxisLabel {
+    top: 65%;
+    left: -20px;
+    transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -webkit-transform:  rotate(-90deg);
+    transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+}
+
+.nav li a {
+    position: relative;
+    display: block;
+    padding: 15px 12px;
+}
+
+.weather_legend {
+    margin-top: 15px;
+}
+.weather_legend table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#city_dropdown {
+    width: 95%;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    max-width:600px;
+}
+
+#map-canvas {
+    width:100%;
+    height: 500px;
+    margin-top: 50px;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* tablets and upwards */
+@media (max-width: 1200px) {
+    .thin-hide {
+        visibility: hidden;
+        height: 0px;
+    }
+}

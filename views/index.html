@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Coldest Cities in Canada</title>
+	<link rel="stylesheet" href="http://use.edgefonts.net/c/05b430/1w;maven-pro,2,WSw:R:n4,WSy:R:n7/d"><script src="/js/maven-pro.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/css/main.css" media="all">
+	<link rel="stylesheet" type="text/css" href="/css/openweather.css" media="all">
+	<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+
+
+
+<!-- Nav Bar -->
+<nav class="navbar navbar-default" role="navigation">
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand" href="#">Frigid Plot</a>
+	</div>
+
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	<div class="collapse navbar-collapse navbar-ex1-collapse">
+		
+
+		<ul class="nav navbar-nav navbar-right">
+			
+			<li><a href="#">Exit</a></li>
+		</ul>
+	</div>
+</nav>
+
+<div class="main_container " align="center">
+	<div class="mobile-wrapper" align="left">
+		<div class="row-fluid">
+			<div class="span12">
+				<div id="weather_graph_container">
+					<h3 id="title_0" align="center">City Daily Temperature</h3>
+					<div id="weather_graph_0" class="weather_graph" style="padding: 0px; position: relative;"><div class="axisLabel yaxisLabel">Temperature</div><div class="axisLabel xaxisLabel">Date</div></div>
+					<div id="weather_legend_0" class="weather_legend col-lg-12"></div>
+					<hr>
+                    <h5 align="center">These are the 10 coldest cities in Canada:
+                    <br><small>Brrr...</small></h5>
+                    <select type="text" class="form-control center" name="city" id="city_dropdown">
+                        <option value="" disabled="disabled" selected>Select City</option>
+                    </select>
+
+                    <div id="map-canvas"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Load flot for plotting purposes -->
+<script type="text/javascript" src="/js/jquery.flot.js"></script>
+<script type="text/javascript" src="/js/jquery.flot.time.js"></script>
+<script type="text/javascript" src="/js/jquery.flot.tooltip.min.js"></script>
+<script type="text/javascript" src="/js/jquery.flot.resize.js"></script>
+<!-- Load google maps API -->
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+<!-- Load weather-specific javascript -->
+<script type="text/javascript" src="/js/openweather.js"></script>
+<script type="text/javascript">
+    var cold_cities = <%- JSON.stringify(cities) %>;
+</script>

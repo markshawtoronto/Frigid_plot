@@ -1,0 +1,14 @@
+{
+	"name": "Frigid_plot",
+	"version": "0.0.1",
+	"description": "A simple demo application to find and plot the temperature of the 10 coldest cities in Canada.",
+	"main": "index.js",
+	"author": "Mark Shaw",
+	"license": "GPL",
+	"dependencies" : {
+		"express"    : "latest",
+		"request"    : "latest",
+		"cheerio"    : "latest",
+		"ejs"		 : "latest"
+	}
+}

@@ -1,0 +1,836 @@
+{
+    "cities": [
+        {
+            "city": "Norman Wells",
+            "temperature": "-34 °C"
+        },
+        {
+            "city": "Cambridge Bay",
+            "temperature": "-33 °C"
+        },
+        {
+            "city": "Old Crow",
+            "temperature": "-33 °C"
+        },
+        {
+            "city": "Rankin Inlet",
+            "temperature": "-30 °C"
+        },
+        {
+            "city": "Rae-Edzo",
+            "temperature": "-29 °C"
+        },
+        {
+            "city": "Inuvik",
+            "temperature": "-29 °C"
+        },
+        {
+            "city": "Aklavik",
+            "temperature": "-29 °C"
+        },
+        {
+            "city": "Baker Lake",
+            "temperature": "-29 °C"
+        },
+        {
+            "city": "Taloyoak",
+            "temperature": "-28 °C"
+        },
+        {
+            "city": "Coral Harbour",
+            "temperature": "-28 °C"
+        },
+		{
+			"city": "Eureka",
+			"temperature": "-28 °C"
+		},
+        {
+            "city": "Tuktoyaktuk",
+            "temperature": "-28 °C"
+        },
+        {
+            "city": "Kugluktuk",
+            "temperature": "-27 °C"
+        },
+        {
+            "city": "Arviat",
+            "temperature": "-27 °C"
+        },
+        {
+            "city": "Churchill",
+            "temperature": "-26 °C"
+        },
+        {
+            "city": "Yellowknife",
+            "temperature": "-26 °C"
+        },
+        {
+            "city": "Pond Inlet",
+            "temperature": "-26 °C"
+        },
+        {
+            "city": "Thompson",
+            "temperature": "-25 °C"
+        },
+        {
+            "city": "Resolute Bay",
+            "temperature": "-25 °C"
+        },
+        {
+            "city": "Kugaaruk",
+            "temperature": "-24 °C"
+        },
+        {
+            "city": "Igloolik",
+            "temperature": "-22 °C"
+        },
+        {
+            "city": "Grise Fiord",
+            "temperature": "-20 °C"
+        },
+        {
+            "city": "Paulatuk",
+            "temperature": "-20 °C"
+        },
+        {
+            "city": "Fort Simpson",
+            "temperature": "-20 °C"
+        },
+        {
+            "city": "Iqaluit",
+            "temperature": "-19 °C"
+        },
+        {
+            "city": "Denare Beach",
+            "temperature": "-19 °C"
+        },
+        {
+            "city": "Creighton",
+            "temperature": "-19 °C"
+        },
+        {
+            "city": "Hay River",
+            "temperature": "-18 °C"
+        },
+        {
+            "city": "The Pas",
+            "temperature": "-18 °C"
+        },
+        {
+            "city": "Cape Dorset",
+            "temperature": "-17 °C"
+        },
+        {
+            "city": "Fort Nelson",
+            "temperature": "-16 °C"
+        },
+        {
+            "city": "Fort Smith",
+            "temperature": "-16 °C"
+        },
+        {
+            "city": "Yorkton",
+            "temperature": "-16 °C"
+        },
+        {
+            "city": "Wood Buffalo",
+            "temperature": "-15 °C"
+        },
+        {
+            "city": "High Level",
+            "temperature": "-15 °C"
+        },
+        {
+            "city": "Dawson City (Yukon T.)",
+            "temperature": "-14 °C"
+        },
+        {
+            "city": "Fort St. John",
+            "temperature": "-14 °C"
+        },
+        {
+            "city": "Kuujjuaq",
+            "temperature": "-14 °C"
+        },
+        {
+            "city": "Lloydminster",
+            "temperature": "-14 °C"
+        },
+        {
+            "city": "Meadow Lake",
+            "temperature": "-13 °C"
+        },
+        {
+            "city": "Pangnirtung",
+            "temperature": "-13 °C"
+        },
+        {
+            "city": "Prince Albert",
+            "temperature": "-13 °C"
+        },
+        {
+            "city": "Dawson Creek (Br. Col.)",
+            "temperature": "-12 °C"
+        },
+        {
+            "city": "Dauphin",
+            "temperature": "-12 °C"
+        },
+        {
+            "city": "Labrador City",
+            "temperature": "-12 °C"
+        },
+        {
+            "city": "Hopedale",
+            "temperature": "-11 °C"
+        },
+        {
+            "city": "Brandon",
+            "temperature": "-11 °C"
+        },
+        {
+            "city": "Happy Valley-Goose Bay",
+            "temperature": "-11 °C"
+        },
+        {
+            "city": "Regina",
+            "temperature": "-11 °C"
+        },
+        {
+            "city": "Clyde River",
+            "temperature": "-10 °C"
+        },
+        {
+            "city": "Saskatoon",
+            "temperature": "-10 °C"
+        },
+        {
+            "city": "Portage la Prairie",
+            "temperature": "-9 °C"
+        },
+        {
+            "city": "Swift Current",
+            "temperature": "-9 °C"
+        },
+        {
+            "city": "Stonewall",
+            "temperature": "-9 °C"
+        },
+        {
+            "city": "Morden",
+            "temperature": "-9 °C"
+        },
+        {
+            "city": "Moose Jaw",
+            "temperature": "-8 °C"
+        },
+        {
+            "city": "Selkirk",
+            "temperature": "-8 °C"
+        },
+        {
+            "city": "Grande Prairie",
+            "temperature": "-8 °C"
+        },
+        {
+            "city": "Steinbach",
+            "temperature": "-8 °C"
+        },
+        {
+            "city": "Winnipeg",
+            "temperature": "-8 °C"
+        },
+        {
+            "city": "Qikiqtarjuaq",
+            "temperature": "-6 °C"
+        },
+        {
+            "city": "Gaspé",
+            "temperature": "-5 °C"
+        },
+        {
+            "city": "Whitehorse",
+            "temperature": "-5 °C"
+        },
+        {
+            "city": "Blanc-Sablon",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "St. Albert",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Atikokan",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Chibougamau",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Levis",
+            "temperature": "N/A"
+        },
+        {
+            "city": "Strathcona County",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Camrose",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Edmonton",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Ponoka",
+            "temperature": "-4 °C"
+        },
+        {
+            "city": "Red Deer",
+            "temperature": "-3 °C"
+        },
+        {
+            "city": "Corner Brook",
+            "temperature": "-2 °C"
+        },
+        {
+            "city": "Gander",
+            "temperature": "-2 °C"
+        },
+        {
+            "city": "Medicine Hat",
+            "temperature": "-1 °C"
+        },
+        {
+            "city": "Williams Lake",
+            "temperature": "-1 °C"
+        },
+        {
+            "city": "Saguenay",
+            "temperature": "-1 °C"
+        },
+        {
+            "city": "Cranbrook",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Grand Falls-Windsor",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Brockville",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Saint John (CA - NB)",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Nelson",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Quispamsis",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Kenora",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Rothesay",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Stephenville",
+            "temperature": "0 °C"
+        },
+        {
+            "city": "Moncton",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Bathurst",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Edmundston",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Creston",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "St. John's (CA - NF)",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Rimouski",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Riverview",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Rainy River",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Québec",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Prince George",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Paradise",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Conception Bay South",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Dieppe",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Dryden",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Mount Pearl",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Glace Bay",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Miramichi",
+            "temperature": "1 °C"
+        },
+        {
+            "city": "Cumberland County",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Saint-Jérôme",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Shawinigan",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Quesnel",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Laval",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Charlottetown",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Nipigon",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Saint-Georges",
+            "temperature": "2 °C"
+        },
+        {
+            "city": "Thunder Bay",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Kirkland Lake",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Annapolis County",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Sherbrooke",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Kamloops",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Trois-Rivieres",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Temiskaming Shores",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Drummondville",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Fredericton",
+            "temperature": "3 °C"
+        },
+        {
+            "city": "Timmins",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Kings County",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Summerside",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Terrebonne",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Rouyn-Noranda",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Repentigny",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Saint-Jean-sur-Richelieu",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "East Hants",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Lethbridge",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Colchester County",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "MD of Lunenburg",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Calgary",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Kelowna",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Cape Breton Regional Municipality",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Saint-Hyacinthe",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Pictou County",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Halifax",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "Greater Sudbury",
+            "temperature": "4 °C"
+        },
+        {
+            "city": "North Bay",
+            "temperature": "5 °C"
+        },
+        {
+            "city": "Sault Ste. Marie",
+            "temperature": "5 °C"
+        },
+        {
+            "city": "Banff",
+            "temperature": "5 °C"
+        },
+        {
+            "city": "Cambridge",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Waterloo",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Montreal",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Granby",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Yarmouth County",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Cornwall",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Guelph",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Kawartha Lakes",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Longueuil",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Kitchener",
+            "temperature": "6 °C"
+        },
+        {
+            "city": "Oakville",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Oshawa",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Toronto",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Haldimand",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Ottawa",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Vaughan",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Campbell River",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Halton Hills",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Whitby",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Owen Sound",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Brampton",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Burlington",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Peterborough",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Hamilton",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Pickering",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Clarington",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Markham",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Prince Rupert",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Ajax",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Brantford",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Richmond Hill",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Mississauga",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Gatineau",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "St. Catharines",
+            "temperature": "7 °C"
+        },
+        {
+            "city": "Niagara Falls",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Chatham-Kent",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Belleville",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Burnaby",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Norfolk",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Whistler",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Caledon",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Barrie",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Vancouver",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Delta",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Stratford",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Richmond",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Kingston",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Newmarket",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "London",
+            "temperature": "8 °C"
+        },
+        {
+            "city": "Welland",
+            "temperature": "9 °C"
+        },
+        {
+            "city": "Abbotsford",
+            "temperature": "9 °C"
+        },
+        {
+            "city": "Sarnia",
+            "temperature": "9 °C"
+        },
+        {
+            "city": "Chilliwack",
+            "temperature": "9 °C"
+        },
+        {
+            "city": "Milton",
+            "temperature": "9 °C"
+        },
+        {
+            "city": "Nanaimo",
+            "temperature": "10 °C"
+        },
+        {
+            "city": "White Rock",
+            "temperature": "10 °C"
+        },
+        {
+            "city": "Maple Ridge",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "New Westminster",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Surrey",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Victoria",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Saanich",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Windsor",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Port Coquitlam",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Langley",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Sidney",
+            "temperature": "11 °C"
+        },
+        {
+            "city": "Coquitlam",
+            "temperature": "11 °C"
+        }
+    ]
+}

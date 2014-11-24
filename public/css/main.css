@@ -1,0 +1,99 @@
+/*Generic Styles*/
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.clear-left{
+	clear:left;
+}
+
+.clear-right{
+	clear:right;
+}
+.clear-both{
+	clear:both;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.blue{
+	color:#3299BB;
+}
+.orange{
+	color:#FF9900;
+}
+
+.green{
+	color:#00A54F;
+}
+.red{
+	color:#C52031;
+}
+.white{
+	color: #fff;
+}
+.grey{
+	color:#999999;
+}
+.orange-bg{
+	background-color:#FF9900;
+}
+.blue-bg{
+	background-color:#3299BB;
+}
+.green-bg{
+	background-color:#00A54F;
+}
+.red-bg{
+	background-color:#C52031;
+}
+.grey-bg{
+	background-color: #f9f9f9;
+	color: #000;
+}
+.title{
+	text-align: center;
+	clear:both;
+
+}
+.fixed{
+position:fixed;
+}
+
+body{
+	min-height: 100% !important;
+	font-family: MAVEN-PRO,sans-serif;
+    background-color: #363f48;
+}
+h1,h2,h3,h4,h5,h6,span,p{
+	font-family: MAVEN-PRO,sans-serif !important;
+}
+
+.mobile-wrapper{
+	width: 95%;
+	position: relative;
+	padding: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.main_container{
+	position: relative;
+	width: 95%;
+	max-width:1170px;
+	margin: 0 auto;
+	padding-bottom: 100px;
+	overflow:hidden;
+	background:#FFF;
+	-moz-box-shadow: 0px 10px 12px 0px rgba(0,0,0,.4),
+	0px -10px 12px 0px #000;
+	-webkit-box-shadow: 0px 10px 12px 0px rgba(0,0,0,.4),
+	0px -10px 12px 0px #000;
+	box-shadow: 0px 10px 12px 0px rgba(0,0,0,.4),
+	0px -10px 12px 0px rgba(0,0,0,.4);
+
+}
