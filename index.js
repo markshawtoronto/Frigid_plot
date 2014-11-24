@@ -20,8 +20,15 @@ app.use(express.static(__dirname + '/public'));
 app.set('views', __dirname + '/views');
 app.engine('html', require('ejs').renderFile);
 app.set('view engine', 'ejs');
-app.listen('8080', "127.0.0.1");
-console.log('Magic happens on port 8080');
+app.set('port', (process.env.PORT || 5000));
+
+app.get('/', function(req, res) {
+	response.send('Hello World!');
+});
+
+app.listen(app.get('port'), function() {
+	console.log('Node app running!');
+});
 
 /**
  * Scrape will collect the cities in Canada and their temperatures via scraping http://timeanddate.com/weather
